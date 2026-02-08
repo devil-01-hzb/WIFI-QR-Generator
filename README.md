@@ -76,17 +76,17 @@ Run the app
 
 From the same terminal (with the virtual environment activated), run:
 ```
-python wifi_qr_generator.py
+python main.py
 ```
 
 Or, if your system uses python3:
 ```
-python3 wifi_qr_generator.py
+python3 main.py
 ```
 
 If the script is a PyQt GUI, a window should open. If nothing happens, run it with:
 ```
-python -u wifi_qr_generator.py
+python -u main.py
 ```
 to see runtime output/errors in the terminal.
 
